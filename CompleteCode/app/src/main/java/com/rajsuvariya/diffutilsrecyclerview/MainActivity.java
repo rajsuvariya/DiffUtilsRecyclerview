@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-                adapter.onNewProducts(DataGenerator.getUpdatedData());
+                adapter.onNewData(DataGenerator.getUpdatedData());
                 swipeRefreshLayout.setRefreshing(false);
             }
         });

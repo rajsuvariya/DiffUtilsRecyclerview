@@ -87,11 +87,10 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
         return data;
     }
 
-    public void onNewProducts(ArrayList<Contact> newProducts) {
-        Log.d("diffutilcheck", "Size : "+newProducts.size());
-        DiffUtil.DiffResult diffResult = DiffUtil.calculateDiff(new MyDiffUtilCallback(newProducts, data));
+    public void onNewData(ArrayList<Contact> newData) {
+        DiffUtil.DiffResult diffResult = DiffUtil.calculateDiff(new MyDiffUtilCallback(newData, data));
         diffResult.dispatchUpdatesTo(this);
         this.data.clear();
-        this.data.addAll(newProducts);
+        this.data.addAll(newData);
     }
 }

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_a2beb9a486e2419bd7f4abe34a0a50b022ea3dd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_5e315866b65c1f253d7c7883c6cb358078d5e19f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_294cc63b6c97303fd6c9be102afc79ba38cf2e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_415e1b5d8977c8553a57cb6f4308061fb0f681ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b79ae2bf014d97eb6d6fa840cb34d6e3145082e">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/instant-run_aaa7d5e9dce8b0d844738f52b1646c9eaff93c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27d5a1faf7d16d8941fd9ec487cd8c57e9a4971f">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e85487dd0377d0d64b883685c5f421172319a83c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_2d6c1154ceaa9fd3f04f6191446b78bbdf82ce27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19ef5eb5fb142dc014c4a0b0d8cb4929478d3159">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/instant-run_1713dd58727b7e6e88cb667eba8f7d04d83aadd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_9dd98878524e12f2b6021e8d6faf05b0a3d7227c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_5050984f4f3eb9d19be38976acd470a1512ac3a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_252e7156be11bb3f5021c6c99ecef971e2916709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_106b95e71b3c6fb1229c408bc1d142c14743eacc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_2b35863d0d324ed05e87a50b2787fe5b9b251e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_107b56bf6d7a4eb330b70cadfc1d6a1ac56f50d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_712781b88e4f4cc417a6e65cd851c4de1162ebdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_82564bf51298b7a696ff277425929d426d1ccae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_e9d0909485122e37356d7acd24bea5425006e98b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_9706b7ea3803f2b6cb25403f06fd73aed235fa47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_0e5283336acd61baa194198f332f25c9a44873c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_923722d2c1ad6beb9da194020869c0837f4736e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_898f01ae7f0fba341a9a1e4b0c1bf520f7a96d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_d98cb08bafa49e4a150829f4f1b811d38ec89653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_417094527e60f8582682cd703f9f7599ee35d14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b31387812b5d1e49151a212c9db9cf7eb2305a6">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_92edc26309931330fab47ea5d67e19f995e853c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_bcbbb5fc0849279727ee26997e8df5f629d4afc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_b798939cffa615eee15edda2eba6a88668f9112b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_5efab6b2169dfe4bdac476374caa8e2fe564eee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/CompleteCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_b535781ac164031ed7d3f2807da9074b2e5033b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/kuliza-319/Workspace/DiffUtilsRecyclerview/TryYourself/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_5fdb9b05387def70003831f5ec5587e8bf86444f.jar" />
+    </item>
+
+</items>
