@@ -30,7 +30,7 @@ public class Contact implements Comparable{
         this.phonenumber = phonenumber;
     }
 
-    // TODO writeCompareTo method
+    // TODO(3): writeCompareTo method
     @Override
     public int compareTo(Object o) {
        return 0;

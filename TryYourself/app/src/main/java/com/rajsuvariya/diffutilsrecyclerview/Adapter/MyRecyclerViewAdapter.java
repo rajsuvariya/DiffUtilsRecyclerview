@@ -56,7 +56,7 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
         holder.phonenumber.setText(data.get(position).getPhonenumber());
     }
 
-    // TODO write onBindViewHolder method
+    // TODO(7): write onBindViewHolder method
     @Override
     public void onBindViewHolder(ContactViewHolder holder, int position, List<Object> payloads) {
         super.onBindViewHolder(holder, position, payloads);
@@ -71,7 +71,7 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
         return data;
     }
 
-    // TODO write onNewData method
+    // TODO(6): write onNewData method
     public void onNewData(ArrayList<Contact> newData) {
 
     }

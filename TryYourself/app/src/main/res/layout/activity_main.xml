@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.rajsuvariya.diffutilsrecyclerview.MainActivity">
 
-    <!--TODO 1 add a SwipeRefreshLayout and wrap RecyclerView inside it-->
+    <!--TODO(1) : add a SwipeRefreshLayout and wrap RecyclerView inside it-->
 
         <android.support.v7.widget.RecyclerView
             android:id="@+id/rv_main"

@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // TODO 2 bind xml SwipeRefreshLayout with java objects
+        // TODO(2): bind xml SwipeRefreshLayout with java objects
 
         recyclerView = (RecyclerView) findViewById(R.id.rv_main);
 
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         adapter = new MyRecyclerViewAdapter(DataGenerator.getData());
         recyclerView.setAdapter(adapter);
 
-        // TODO setOnRefreshListener method to call adapter's onNewData method
+        // TODO(8): setOnRefreshListener method to call adapter's onNewData method
 
 
     }
